@@ -1,4 +1,5 @@
 Teste
 Segundo commit no repositorio
-Acrescentei terceiro commit 
+Acrescentei terceiro commit
+Texto adicionado 
 
